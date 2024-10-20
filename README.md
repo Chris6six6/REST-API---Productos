@@ -80,6 +80,16 @@ The tests cover various scenarios for each endpoint:
 
 These tests ensure that the API behaves correctly under various conditions, including both valid and invalid inputs.
 
+### Test Coverage
+
+Our test suite achieves 100% coverage across all files and functions. Here's a breakdown of the coverage:
+
+```
+![Coveraage](/coverage.jpg)
+```
+
+This comprehensive coverage ensures that all parts of our codebase are thoroughly tested, reducing the likelihood of bugs and improving overall code quality.
+
 ## Project Structure
 
 ```
