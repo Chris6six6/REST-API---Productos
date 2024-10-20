@@ -85,7 +85,7 @@ These tests ensure that the API behaves correctly under various conditions, incl
 Our test suite achieves 100% coverage across all files and functions. Here's a breakdown of the coverage:
 
 ```
-![Coveraage](/coverage.jpg)
+![Coveraage](./coverage.jpg)
 ```
 
 This comprehensive coverage ensures that all parts of our codebase are thoroughly tested, reducing the likelihood of bugs and improving overall code quality.
